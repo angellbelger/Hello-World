@@ -1,2 +1,2 @@
 # Hello World
- course
+ Re: Zero Python
