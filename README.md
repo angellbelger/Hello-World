@@ -1,11 +1,5 @@
-# I am the Badass
-
-print('{}Hello, world.{}'.format('\033[34m', '\033[m')
-
-x = 0
-ok = True
-while ok:
-    print(f'{x}')
-    x += 1
-    if x == 10:
-        ok = False
+# Sublime-Fridrich
+ ***
+### License Copyright (c) 2021 Angell Belger
+![template github](https://user-images.githubusercontent.com/82967046/116450089-4639f780-a831-11eb-9673-4b18a47c4e91.png)
+***
