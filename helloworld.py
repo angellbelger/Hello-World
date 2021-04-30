@@ -1,0 +1,1 @@
+print('{}Hello, world.{}'.format('\033[36m', '\033[m'))
